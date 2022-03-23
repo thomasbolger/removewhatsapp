@@ -1,0 +1,5 @@
+<style>
+.ingo_community_widget_invite_users_buttons_btn:nth-child(2) {
+    display: none !important;
+}
+</style>
